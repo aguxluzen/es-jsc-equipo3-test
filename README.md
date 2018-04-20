@@ -1,2 +1,2 @@
-# es-jsc-juego-de-estrellas-test
+# es-jsc-equipo3-test
 Test for es-jsc-equipo3
